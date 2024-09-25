@@ -1,8 +1,8 @@
 # Lunch & Learn Edge Delivery Services Demo
 
 ## Environments
-- Preview: https://main--ensembledotcom--GITHUB USERNAME.aem.page/
-- Live: https://main--ensembledotcom--GITHUB USERNAME.aem.live/
+- Preview: https://main--ensemblefinal--jumorrow.aem.page/
+- Live: https://main--ensemblefinal--jumorrow.aem.live/
 
 ## Installation
 
