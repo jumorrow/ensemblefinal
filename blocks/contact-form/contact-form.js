@@ -12,6 +12,7 @@ function validateEmail() {
   };
   
   function submitForm() {
+    alert('submit button currently disabled for testing');
     const email = document.querySelector('#email').value;
     const comments = document.querySelector('#comments').value;
   
